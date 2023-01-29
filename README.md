@@ -1,3 +1,1 @@
-�t�a�b�l�e�
-�
-�
+table test
